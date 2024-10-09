@@ -1,0 +1,14 @@
+C:\Users\vitus\source\repos\f74122161_practice_3_2\bin\Debug\f74122161_practice_3_2.exe.config
+C:\Users\vitus\source\repos\f74122161_practice_3_2\bin\Debug\f74122161_practice_3_2.exe
+C:\Users\vitus\source\repos\f74122161_practice_3_2\bin\Debug\f74122161_practice_3_2.pdb
+C:\Users\vitus\source\repos\f74122161_practice_3_2\obj\Debug\f74122161_practice_3_2.csproj.AssemblyReference.cache
+C:\Users\vitus\source\repos\f74122161_practice_3_2\obj\Debug\f74122161_practice_3_2.AddOrders.resources
+C:\Users\vitus\source\repos\f74122161_practice_3_2\obj\Debug\f74122161_practice_3_2.Form1.resources
+C:\Users\vitus\source\repos\f74122161_practice_3_2\obj\Debug\f74122161_practice_3_2.Login.resources
+C:\Users\vitus\source\repos\f74122161_practice_3_2\obj\Debug\f74122161_practice_3_2.MainPage.resources
+C:\Users\vitus\source\repos\f74122161_practice_3_2\obj\Debug\f74122161_practice_3_2.Properties.Resources.resources
+C:\Users\vitus\source\repos\f74122161_practice_3_2\obj\Debug\f74122161_practice_3_2.csproj.GenerateResource.cache
+C:\Users\vitus\source\repos\f74122161_practice_3_2\obj\Debug\f74122161_practice_3_2.csproj.CoreCompileInputs.cache
+C:\Users\vitus\source\repos\f74122161_practice_3_2\obj\Debug\f74122161_practice_3_2.exe
+C:\Users\vitus\source\repos\f74122161_practice_3_2\obj\Debug\f74122161_practice_3_2.pdb
+C:\Users\vitus\source\repos\f74122161_practice_3_2\obj\Debug\f74122161_practice_3_2.AddAccount.resources

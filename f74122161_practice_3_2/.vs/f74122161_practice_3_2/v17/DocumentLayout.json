@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\addorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|solutionrelative:addorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\addorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|solutionrelative:addorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|c:\\users\\vitus\\source\\repos\\f74122161_practice_3_2\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|solutionrelative:addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|solutionrelative:addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{854EEC33-652B-423F-A79A-71AF675391BF}|f74122161_practice_3_2.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwCsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:38:56.462Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\MainPage.cs",
+              "RelativeToolTip": "MainPage.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAEwBwAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:39:29.408Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:44:35.124Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\AddAccount.cs",
+              "RelativeDocumentMoniker": "AddAccount.cs",
+              "ToolTip": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\AddAccount.cs [Design]",
+              "RelativeToolTip": "AddAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:11:35.173Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:09:07.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddOrders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\AddOrders.cs",
+              "RelativeDocumentMoniker": "AddOrders.cs",
+              "ToolTip": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\AddOrders.cs [Design]",
+              "RelativeToolTip": "AddOrders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:03:57.52Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:03:55.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\MainPage.cs [Design]",
+              "RelativeToolTip": "MainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:47:37.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddAccount.cs",
+              "DocumentMoniker": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\AddAccount.cs",
+              "RelativeDocumentMoniker": "AddAccount.cs",
+              "ToolTip": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\AddAccount.cs",
+              "RelativeToolTip": "AddAccount.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:46:36.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddOrders.cs",
+              "DocumentMoniker": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\AddOrders.cs",
+              "RelativeDocumentMoniker": "AddOrders.cs",
+              "ToolTip": "C:\\Users\\vitus\\source\\repos\\f74122161_practice_3_2\\AddOrders.cs",
+              "RelativeToolTip": "AddOrders.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:38:14.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

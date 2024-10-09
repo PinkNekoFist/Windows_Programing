@@ -1,0 +1,14 @@
+C:\Users\vitus\source\repos\f74122161_practice_1_1\bin\Debug\net8.0\f74122161_practice_1_1.exe
+C:\Users\vitus\source\repos\f74122161_practice_1_1\bin\Debug\net8.0\f74122161_practice_1_1.deps.json
+C:\Users\vitus\source\repos\f74122161_practice_1_1\bin\Debug\net8.0\f74122161_practice_1_1.runtimeconfig.json
+C:\Users\vitus\source\repos\f74122161_practice_1_1\bin\Debug\net8.0\f74122161_practice_1_1.dll
+C:\Users\vitus\source\repos\f74122161_practice_1_1\bin\Debug\net8.0\f74122161_practice_1_1.pdb
+C:\Users\vitus\source\repos\f74122161_practice_1_1\obj\Debug\net8.0\f74122161_practice_1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitus\source\repos\f74122161_practice_1_1\obj\Debug\net8.0\f74122161_practice_1_1.AssemblyInfoInputs.cache
+C:\Users\vitus\source\repos\f74122161_practice_1_1\obj\Debug\net8.0\f74122161_practice_1_1.AssemblyInfo.cs
+C:\Users\vitus\source\repos\f74122161_practice_1_1\obj\Debug\net8.0\f74122161_practice_1_1.csproj.CoreCompileInputs.cache
+C:\Users\vitus\source\repos\f74122161_practice_1_1\obj\Debug\net8.0\f74122161_practice_1_1.dll
+C:\Users\vitus\source\repos\f74122161_practice_1_1\obj\Debug\net8.0\refint\f74122161_practice_1_1.dll
+C:\Users\vitus\source\repos\f74122161_practice_1_1\obj\Debug\net8.0\f74122161_practice_1_1.pdb
+C:\Users\vitus\source\repos\f74122161_practice_1_1\obj\Debug\net8.0\f74122161_practice_1_1.genruntimeconfig.cache
+C:\Users\vitus\source\repos\f74122161_practice_1_1\obj\Debug\net8.0\ref\f74122161_practice_1_1.dll
